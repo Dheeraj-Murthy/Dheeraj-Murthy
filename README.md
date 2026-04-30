@@ -9,6 +9,8 @@
 
 ```
 
+<!--
+
 ```bash
 $ whoami
 M S Dheeraj Murthy
@@ -17,6 +19,7 @@ Systems Programmer / Backend Engineer / Open Source Enthusiast / Web Dev
 $ uptime
 since long long ago..
 ```
+-->
 
 <p align="center">
   <a href="https://dheeraj-murthy.github.io/HTML-Canvas-js-game/">
